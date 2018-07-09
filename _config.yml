@@ -40,3 +40,6 @@ plugins:
 #   - vendor/ruby/
 
 permalink: pretty
+
+# Google Analytics
+google_analytics: UA-121415057-1
